@@ -1,0 +1,92 @@
+h1 {
+    color:#f10e7f;
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    font-style:sans-serif;
+    text-align:center;
+    font-size:35px;
+    text-decoration:underline;
+    text-decoration-color: black;
+
+}
+
+h3{
+    color:blue
+
+}
+
+h3 {
+    font-family:italic;
+    font-style: verdana;
+    font-size:  17px;
+
+}
+
+h2{
+    color:rgb(211, 31, 31);
+}
+
+
+
+ol,li{
+    background-color:rgb(184, 230, 87);
+    width:50%;
+
+
+}
+
+ol,li{
+    color:blue;
+    text-align:none;
+}
+
+p{
+ color: rgb(55, 13, 240);
+ font-family: italic;
+ font-style:sans-serif;
+ text-align:center;
+}
+
+p#thicker {
+    font-size:25px;
+
+}
+
+
+
+img{
+    border:10px solid red;
+    border:ridge rgb(214, 15, 124) 10px;
+
+
+}
+
+body{
+  background-image:url("https://image.freepik.com/free-photo/brown-paper-texture-for-background_1373-528.jpg");
+  border:dashed 10px #7214dd;
+
+
+
+
+}
+
+table,th,td{
+    border:2px solid purple;
+    font-family: Arial, Helvetica, sans-serif;
+    background-color:rgb(184, 230, 87);
+    font-size: 20px;
+
+}
+
+mark{
+    background-color:white;
+    font-size:18px;
+}
+
+
+p {
+    background-color:rgb(184, 230, 87);
+    width:50%;
+
+}
+
+
